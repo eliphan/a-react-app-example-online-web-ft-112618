@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import moment from 'moment';
 import ExampleComponent from './ExampleComponent';
 import TestComponent from './TestComponent';
-
+// eslint-disable-next-line
 // Add your code own within the return statement
 
 class App extends Component {
