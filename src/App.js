@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
+// eslint-disable-next-line
 import moment from 'moment';
 import ExampleComponent from './ExampleComponent';
-import TestComponent from './TestComponent';
 // eslint-disable-next-line
+import TestComponent from './TestComponent';
+
 // Add your code own within the return statement
 
 class App extends Component {
